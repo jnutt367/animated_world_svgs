@@ -1,6 +1,6 @@
 # Animated World SVGs
 
-## I am creating a buncj of different animated worlds in order to make music videos out of them and feature them on youtube 
+## I am creating a bunch of different animated worlds in order to make music videos out of them and feature them on youtube 
 
 ### They may or may not end up with a tutorial on how to make them depending on the demand. 
 
